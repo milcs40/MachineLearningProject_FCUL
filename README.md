@@ -15,3 +15,5 @@ An important preliminary step, consisted on Data Cleaning and Preprocessing. The
 - Not all features are necessarily important for the analysis.
 - Depending on the analysis, some features might have to be excluded.
 - Class distribution is an important characteristic of the dataset that should be checked. Class imbalance might impair machine learning.
+
+This project includes all necessary files, including the dataset ([Donors_dataset.csv](Donors_dataset.csv)), Jupyter Notebook ([AA_202021_Final_Project_Group25.ipynb](AA_202021_Final_Project_Group25.ipynb)) and several `Orange3` files.
